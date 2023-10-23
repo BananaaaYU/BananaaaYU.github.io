@@ -105,8 +105,9 @@ export default hopeTheme({
       },
     },
   },
-
+  
   encrypt: {
+    admin: ["aiyc", "ys"],
     // config: {
     //   "/demo/encrypt.html": ["1234"],
     //   "/zh/demo/encrypt.html": ["1234"],
