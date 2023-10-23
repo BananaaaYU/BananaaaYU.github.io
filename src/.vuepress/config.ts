@@ -13,7 +13,7 @@ export default defineUserConfig({
     "/zh/": {
       lang: "zh-CN",
       title: "BananaaaYU",
-      description: "BananaaaYU 的博士",
+      description: "BananaaaYU 的博客",
     },
   },
 
