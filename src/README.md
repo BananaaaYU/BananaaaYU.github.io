@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: BananaaaYU
 heroImage: /logo.svg
 heroText: BananaaaYU
 tagline: There is no short cut in the world 
