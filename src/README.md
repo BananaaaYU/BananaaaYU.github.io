@@ -6,10 +6,10 @@ title: BananaaaYU
 heroImage: /images/tx.pic.jpg
 bgImage: /images/bg.pic.jpg
 heroText: BananaaaYU
-tagline: There is no short cut in the world 
+tagline: There is no short cut in the world
 heroFullScreen: true
 
-footer: customize your footer text
+footer: My Word
 ---
 
 
