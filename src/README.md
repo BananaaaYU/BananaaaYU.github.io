@@ -5,7 +5,7 @@ icon: home
 title: Blog Home
 heroImage: /logo.svg
 heroText: BananaaaYU
-tagline: BananaaaYU Good Lucky
+tagline: There is no short cut in the world 
 heroFullScreen: true
 
 footer: customize your footer text
