@@ -111,17 +111,17 @@ export default hopeTheme({
     //   "/demo/encrypt.html": ["1234"],
     //   "/zh/demo/encrypt.html": ["1234"],
     // },
-    global: true,
+    global: true
   },
 
   plugins: {
     blog: true,
 
-    comment: {
-      // You should generate and use your own comment service
-      provider: "Waline",
-      serverURL: "https://waline-comment.vuejs.press",
-    },
+    // comment: {
+    //   // You should generate and use your own comment service
+    //   provider: "Waline",
+    //   serverURL: "https://waline-comment.vuejs.press",
+    // },
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
@@ -143,9 +143,9 @@ export default hopeTheme({
       playground: {
         presets: ["ts", "vue"],
       },
-      revealjs: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      // revealjs: {
+      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+      // },
       stylize: [
         {
           matcher: "Recommended",
