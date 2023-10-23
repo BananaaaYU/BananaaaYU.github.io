@@ -66,7 +66,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "BananaaaYU NoteBook",
 
       displayFooter: true,
 
