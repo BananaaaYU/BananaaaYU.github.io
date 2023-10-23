@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "images/tx.pic.jpg",
+  logo: "/images/tx.pic.jpg",
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -107,10 +107,11 @@ export default hopeTheme({
   },
 
   encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
-    },
+    // config: {
+    //   "/demo/encrypt.html": ["1234"],
+    //   "/zh/demo/encrypt.html": ["1234"],
+    // },
+    global: true,
   },
 
   plugins: {
