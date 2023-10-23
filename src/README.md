@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: BananaaaYU
+tagline: BananaaaYU Good Lucky
 heroFullScreen: true
 projects:
   - icon: project
