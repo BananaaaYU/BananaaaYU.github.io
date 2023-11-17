@@ -19,7 +19,7 @@ export const enNavbar = navbar([
     },
     {
       text: "LaTex",
-      icon: "github",
+      icon: "icon-rgb_jiqixuexisuanfayinqing",
       link: "#"
     },
     {

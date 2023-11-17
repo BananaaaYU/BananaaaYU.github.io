@@ -20,7 +20,7 @@ export const zhNavbar = navbar([
     },
     {
       text: "LaTex",
-      icon: "github",
+      icon: "icon-rgb_jiqixuexisuanfayinqing",
       link: "#"
     },
     {
