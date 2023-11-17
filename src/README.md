@@ -6,7 +6,7 @@ title: BananaaaYU
 heroImage: /images/ys.jpg
 bgImage: /images/back3.png
 heroText: BananaaaYU
-tagline: There is no short cut in the world
+tagline: Don't be afraid to fall.<br/><center>I got you!</center>
 heroFullScreen: true
 
 footer: My Word
