@@ -25,7 +25,7 @@ export const zhNavbar = navbar([
     },
     {
       text: "语言学习",
-      icon: "yongyan",
+      icon: "message-language",
       link: "#"
     },
 ]);

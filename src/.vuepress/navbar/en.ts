@@ -24,7 +24,7 @@ export const enNavbar = navbar([
     },
     {
       text: "Language Study",
-      icon: "yongyan",
+      icon: "message-language",
       link: "#"
     },
 ]);
