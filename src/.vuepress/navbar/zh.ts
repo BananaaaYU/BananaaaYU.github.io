@@ -15,7 +15,7 @@ export const zhNavbar = navbar([
     },
     {
       text: "Algorithms and Machine Learning",
-      icon: "MathOperations",
+      icon: "shujujiegou-01",
       link: "#"
     },
     {
