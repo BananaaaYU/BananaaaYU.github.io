@@ -72,7 +72,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "There is no short cut in the world",
         intro: "/intro.html",
       },
 
@@ -96,7 +96,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "There is no short cut in the world",
         intro: "/zh/intro.html",
       },
 
