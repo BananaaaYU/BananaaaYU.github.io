@@ -109,10 +109,10 @@ export default hopeTheme({
   
   encrypt: {
     admin: ["aiyc", "ys"],
-    config: {
-      "/posts/tomato.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
-    },
+    // config: {
+    //   "/posts/tomato.html": ["1234"],
+    //   "/zh/demo/encrypt.html": ["1234"],
+    // },
     global: true
   },
 
