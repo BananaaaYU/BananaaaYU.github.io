@@ -4,7 +4,7 @@ export const enNavbar = navbar([
   "/",
     {
       text: "Programming",
-      icon: "code",
+      icon: "rengongzhineng",
       link: "#"
     },
     {
