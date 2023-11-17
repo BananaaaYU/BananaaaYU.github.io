@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: BananaaaYU
 heroImage: /images/ys.jpg
-bgImage: /images/back.png
+bgImage: /images/back2.png
 heroText: BananaaaYU
 tagline: There is no short cut in the world
 heroFullScreen: true
