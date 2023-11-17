@@ -12,7 +12,7 @@ export default hopeTheme({
     name: "BananaaaYU",
     url: "https://mister-hope.com",
   },
-  // darkmode: "enable",
+  darkmode: "auto",
   
   iconAssets: "fontawesome-with-brands",
 
