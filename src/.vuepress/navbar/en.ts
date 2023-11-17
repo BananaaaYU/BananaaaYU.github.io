@@ -19,7 +19,7 @@ export const enNavbar = navbar([
     },
     {
       text: "LaTex",
-      icon: "icon-rgb_jiqixuexisuanfayinqing",
+      icon: "lianxi",
       link: "#"
     },
     {
