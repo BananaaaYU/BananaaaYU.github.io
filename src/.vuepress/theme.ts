@@ -13,8 +13,9 @@ export default hopeTheme({
     url: "https://bananaaayu.github.io",
   },
   darkmode: "auto",
-  
-  iconAssets: "fontawesome-with-brands",
+  iconPrefix: "iconfont icon-",
+  // iconAssets: "fontawesome-with-brands",
+  iconAssets: "https://bornforthis.cn/icon/iconfont.css",
 
   logo: "/images/ys.jpg",
 
