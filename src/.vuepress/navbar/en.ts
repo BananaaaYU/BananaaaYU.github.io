@@ -8,7 +8,7 @@ export const enNavbar = navbar([
       link: "#"
     },
     {
-      text: "mathletics",
+      text: "Mathletics",
       icon: "MathOperations",
       link: "#"
     },
