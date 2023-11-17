@@ -7,7 +7,7 @@ heroImage: /images/ys.jpg
 bgImage: /images/back3.png
 heroText: 香蕉雨
 heroFullScreen: true
-tagline: There is no short cut in the world
+tagline: Don't be afraid to fall.<br/><center>I got you!</center>
 
 footer: 我在改变世界
 ---
