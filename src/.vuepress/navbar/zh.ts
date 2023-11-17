@@ -4,17 +4,17 @@ export const zhNavbar = navbar([
   "/zh/",
   "/",
     {
-      text: "Programming",
+      text: "编程",
       icon: "code",
       link: "#"
     },
     {
-      text: "Mathletics",
+      text: "数学",
       icon: "MathOperations",
       link: "#"
     },
     {
-      text: "Algorithms and Machine Learning",
+      text: "算法与机器学习",
       icon: "shujujiegou-01",
       link: "#"
     },
@@ -24,7 +24,7 @@ export const zhNavbar = navbar([
       link: "#"
     },
     {
-      text: "Language Study",
+      text: "语言学习",
       icon: "yongyan",
       link: "#"
     },
